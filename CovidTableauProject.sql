@@ -58,3 +58,6 @@ From PortfolioProject..CovidDeaths
 --Where location like '%states%'
 Group by Location, Population, date
 order by PercentPopulationInfected desc
+
+
+https://public.tableau.com/app/profile/shweta.shinde3209/viz/Book2_17261539004380/TBDeathsinRegions?publish=yes
